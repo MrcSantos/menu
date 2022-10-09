@@ -1,0 +1,54 @@
+{
+    "titolo": "Benvenuti",
+    "descrizione": "Descrizione",
+    "configurazione": [
+        {
+            "titolo": "Italiano",
+            "descrizione": "Menu in italiano",
+            "configurazione": [
+                {
+                    "titolo": "Elemento 1",
+                    "descrizione": "Questo è il primo elemento",
+                    "configurazione": []
+                },
+                {
+                    "titolo": "Elemento 2",
+                    "descrizione": "Questo è il secondo elemento",
+                    "configurazione": []
+                }
+            ]
+        },
+        {
+            "titolo": "English",
+            "descrizione": "English menu",
+            "configurazione": [
+                {
+                    "titolo": "Element 1",
+                    "descrizione": "First element",
+                    "configurazione": []
+                },
+                {
+                    "titolo": "Element 2",
+                    "descrizione": "Second element",
+                    "configurazione": []
+                }
+            ]
+        },
+        {
+            "titolo": "English",
+            "descrizione": "English menu",
+            "configurazione": [
+                {
+                    "titolo": "Element 1",
+                    "descrizione": "First element",
+                    "configurazione": []
+                },
+                {
+                    "titolo": "Element 2",
+                    "descrizione": "Second element",
+                    "configurazione": []
+                }
+            ]
+        }
+    ]
+}
